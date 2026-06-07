@@ -1,6 +1,4 @@
 [![Language: C++](https://img.shields.io/badge/Language-C++-blue.svg)]()
-[![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 # File Management Tool
 
