@@ -1,7 +1,6 @@
 [![Language: C++17](https://img.shields.io/badge/Language-C++17-blue.svg)]()
 [![Dependencies: zlib](https://img.shields.io/badge/Dependencies-zlib-orange.svg)]()
 [![Build System: CMake](https://img.shields.io/badge/Build-CMake-lightgrey.svg)]()
-[![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
 # Multithreaded File Compressor & Decompressor
 
