@@ -1,7 +1,5 @@
 [![Language: C++17](https://img.shields.io/badge/Language-C++17-blue.svg)]()
 [![Dependencies: SFML](https://img.shields.io/badge/Dependencies-SFML-orange.svg)]()
-[![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 # SFML Snake Game
 
